@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Encuentra tu producto ideal</title>
+<style>
+  :root{
+    --brand1:#5b3fa8;   /* color primario de la marca (se cambia por el tuyo) */
+    --brand2:#e85d9e;   /* color secundario del degradado */
+    --bg:#faf8fc;
+    --card:#ffffff;
+    --text:#2b2333;
+    --muted:#7a7186;
+    --line:#e9e2f1;
+    --ok:#1c9e6d;
+    --warn:#b7791f;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+  .demo-banner{background:#241b33;color:#cfc4e8;font-size:12px;text-align:center;padding:6px 12px;letter-spacing:.3px}
+  .demo-banner b{color:#fff}
+  .wrap{max-width:520px;margin:0 auto;padding:0 16px 48px}
+
+  /* ---------- portada ---------- */
+  .cover{min-height:calc(100vh - 30px);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;
+         background:linear-gradient(160deg,var(--brand1),var(--brand2));border-radius:0 0 28px 28px;color:#fff;padding:48px 24px}
+  .cover .logo{width:84px;height:84px;border-radius:22px;background:rgba(255,255,255,.16);display:flex;align-items:center;justify-content:center;font-size:42px;margin-bottom:22px}
+  .cover h1{font-size:30px;line-height:1.2;margin-bottom:12px;font-weight:800}
+  .cover p{opacity:.92;font-size:17px;max-width:340px;margin-bottom:34px;line-height:1.45}
+  .btn{display:inline-block;border:none;cursor:pointer;font-size:17px;font-weight:700;padding:15px 34px;border-radius:999px;transition:transform .08s}
+  .btn:active{transform:scale(.97)}
+  .btn-light{background:#fff;color:var(--brand1)}
+  .btn-brand{background:linear-gradient(135deg,var(--brand1),var(--brand2));color:#fff}
+  .btn-ghost{background:none;color:var(--muted);font-weight:600;padding:12px}
+
+  /* ---------- encuesta ---------- */
+  .screen{display:none;animation:fade .25s ease}
+  .screen.on{display:block}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .progress{height:5px;background:var(--line);border-radius:99px;margin:22px 0 8px;overflow:hidden}
+  .progress i{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,var(--brand1),var(--brand2));transition:width .3s}
+  .qcount{font-size:12.5px;color:var(--muted);margin-bottom:18px}
+  .qtext{font-size:23px;font-weight:800;line-height:1.3;margin-bottom:22px}
+  .opt{width:100%;text-align:left;background:var(--card);border:1.5px solid var(--line);border-radius:16px;padding:16px 18px;font-size:16.5px;
+       margin-bottom:12px;cursor:pointer;display:flex;align-items:center;gap:14px;transition:border-color .15s, box-shadow .15s;color:var(--text)}
+  .opt:hover{border-color:var(--brand1);box-shadow:0 2px 10px rgba(91,63,168,.10)}
+  .swatch{width:44px;height:44px;border-radius:12px;flex:none;border:1px solid rgba(0,0,0,.08)}
+  .imggrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .imgopt{border:2px solid var(--line);border-radius:18px;overflow:hidden;cursor:pointer;background:var(--card);padding:0;transition:border-color .15s}
+  .imgopt:hover{border-color:var(--brand2)}
+  .imgopt img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}
+  .imgopt span{display:block;padding:10px;font-size:14px;font-weight:600;text-align:center}
+  .back{margin-top:6px}
+
+  /* ---------- analizando ---------- */
+  .analyzing{min-height:70vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+  .spinner{width:64px;height:64px;border-radius:50%;border:6px solid var(--line);border-top-color:var(--brand1);animation:spin 1s linear infinite;margin-bottom:26px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .analyzing h2{font-size:22px;margin-bottom:8px}
+  .analyzing p{color:var(--muted)}
+
+  /* ---------- resultado ---------- */
+  .result-head{text-align:center;padding:30px 0 4px}
+  .result-head .eyebrow{font-size:13px;letter-spacing:1.5px;text-transform:uppercase;color:var(--brand2);font-weight:800}
+  .result-head h2{font-size:26px;margin-top:6px}
+  .card{background:var(--card);border:1.5px solid var(--line);border-radius:22px;overflow:hidden;margin-top:18px;box-shadow:0 4px 18px rgba(43,35,51,.06)}
+  .card img.hero{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}
+  .card .body{padding:18px 20px 22px}
+  .match-pct{display:inline-block;background:linear-gradient(135deg,var(--brand1),var(--brand2));color:#fff;font-weight:800;font-size:14px;border-radius:999px;padding:5px 14px;margin-bottom:10px}
+  .card h3{font-size:21px;margin-bottom:6px}
+  .price{font-size:18px;font-weight:800;color:var(--brand1);margin-bottom:8px}
+  .desc{color:var(--muted);font-size:15px;line-height:1.5;margin-bottom:16px}
+  .soldout{background:#fdf3e3;border:1px solid #f3ddb0;color:var(--warn);border-radius:12px;padding:12px 14px;font-size:14px;margin-bottom:16px;line-height:1.45}
+  .stock-ok{color:var(--ok);font-size:13.5px;font-weight:700;margin-bottom:14px}
+  .cta{display:block;text-align:center;text-decoration:none}
+  .alts-title{margin:30px 0 4px;font-size:18px;font-weight:800}
+  .alts-sub{color:var(--muted);font-size:14px;margin-bottom:4px}
+  .altcard{display:flex;gap:14px;align-items:center;background:var(--card);border:1.5px solid var(--line);border-radius:18px;padding:12px;margin-top:12px;text-decoration:none;color:var(--text)}
+  .altcard img{width:86px;height:86px;object-fit:cover;border-radius:12px;flex:none}
+  .altcard .pct{font-size:12.5px;font-weight:800;color:var(--brand2)}
+  .altcard h4{font-size:16px;margin:2px 0}
+  .altcard .p{font-size:14.5px;font-weight:700;color:var(--brand1)}
+  .again{text-align:center;margin-top:30px}
+  .howto{margin-top:40px;border-top:1px dashed var(--line);padding-top:18px;font-size:13px;color:var(--muted);line-height:1.6}
+  .howto b{color:var(--text)}
+  code{background:#efe9f7;border-radius:6px;padding:1px 6px;font-size:12px}
+</style>
+</head>
+<body>
+
+<!-- ==================== PORTADA ==================== -->
+<div id="scr-cover" class="screen on">
+  <div class="cover">
+    <div class="logo">🛍️</div>
+    <h1>Descubre el producto<br>que es muy tú</h1>
+    <p>Contesta unas preguntas rápidas sobre tus gustos y te recomendamos algo de nuestro catálogo.</p>
+    <button class="btn btn-light" id="btn-start" onclick="startSurvey()" disabled style="opacity:.6">Cargando catálogo…</button>
+  </div>
+</div>
+
+<!-- ==================== ENCUESTA ==================== -->
+<div id="scr-survey" class="screen">
+  <div class="wrap">
+    <div class="progress"><i id="pbar" style="width:0%"></i></div>
+    <div class="qcount" id="qcount"></div>
+    <div class="qtext" id="qtext"></div>
+    <div id="opts"></div>
+    <button class="btn btn-ghost back" id="btn-back" onclick="goBack()">← Regresar</button>
+  </div>
+</div>
+
+<!-- ==================== ANALIZANDO ==================== -->
+<div id="scr-analyzing" class="screen">
+  <div class="wrap analyzing">
+    <div class="spinner"></div>
+    <h2>Analizando tus gustos…</h2>
+    <p>Buscando tu producto ideal en el catálogo</p>
+  </div>
+</div>
+
+<!-- ==================== RESULTADO ==================== -->
+<div id="scr-result" class="screen">
+  <div class="wrap">
+    <div class="result-head">
+      <div class="eyebrow">Tu producto ideal</div>
+      <h2 id="r-title">¡Esto es muy tú!</h2>
+    </div>
+    <div id="r-main"></div>
+    <div id="r-alts"></div>
+    <div class="again">
+      <button class="btn btn-brand" onclick="restart()">Volver a empezar</button>
+    </div>
+  </div>
+</div>
+
+<script>
+"use strict";
+/* =====================================================================
+ *  1. CATÁLOGO — se carga de products.json, generado por el exportador
+ *     (fetch-catalog.mjs) desde la API de Tiendanube. Aquí no hay ningún
+ *     token: el archivo es público y solo trae datos que ya son públicos.
+ * =================================================================== */
+
+let CATEGORIES = {};
+let PRODUCTS = [];
+let RASGOS = {};   // rasgos.json: mapa producto -> rasgos, mantenido en el repo
+
+async function loadCatalog(){
+  const btn = document.getElementById("btn-start");
+  try{
+    const [res, resR] = await Promise.all([
+      fetch("products.json", {cache:"no-cache"}),
+      fetch("rasgos.json", {cache:"no-cache"})
+    ]);
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const data = await res.json();
+    RASGOS = resR.ok ? await resR.json() : {};
+    CATEGORIES = data.categories || {};
+    PRODUCTS = data.products || [];
+    if(!PRODUCTS.length) throw new Error("catálogo vacío");
+    btn.disabled = false; btn.style.opacity = 1; btn.textContent = "Comenzar";
+  }catch(e){
+    btn.textContent = "No se pudo cargar el catálogo";
+    console.error("products.json:", e);
+  }
+}
+window.addEventListener("DOMContentLoaded", loadCatalog);
+
+/* =====================================================================
+ *  2. CUESTIONARIO — misma estructura que question / opt / opt_trait
+ *     de la app (type 0 texto, 1 paleta, 2 imágenes; weight 1..5;
+ *     next: 0 = seguir por posición, -1 = terminar, >0 = id destino)
+ * =================================================================== */
+
+const QUIZ = {
+  name: "¿Qué es muy tú?",
+  questions: [
+    {id:1, type:0, weight:2, text:"¿Cómo se ve un domingo perfecto para ti?",
+     options:[
+       {text:"En la playa, con el mar de fondo", traits:{marino:4}, next:0},
+       {text:"Rodeada de plantas y flores", traits:{floral:4}, next:0},
+       {text:"Maratón de series, anime o videojuegos", traits:{geek:4}, next:0},
+       {text:"Recorriendo un mercadito vintage", traits:{retro:4}, next:0},
+       {text:"En un museo o un concierto", traits:{arte:4}, next:0}
+     ]},
+    {id:2, type:1, weight:3, text:"Elige la paleta que más te late",
+     options:[
+       {text:"Azules profundos", color:"#1b4d7a", traits:{marino:3}, next:0},
+       {text:"Verdes naturales", color:"#2e6b3f", traits:{floral:3}, next:0},
+       {text:"Rosa pastel", color:"#f2b7cf", traits:{coquette:4}, next:0},
+       {text:"Negro y morado", color:"#3b2453", traits:{mistico:4}, next:0},
+       {text:"¡Todos los colores!", color:"linear-gradient(90deg,#e0308a,#f0a030,#3fae5a,#3577c8)", traits:{vibrante:4}, next:0}
+     ]},
+    {id:3, type:0, weight:2, text:"¿Qué te define más?",
+     options:[
+       {text:"Los animalitos me derriten", traits:{tierno:4}, next:5},
+       {text:"Mi sentido del humor", traits:{humor:4}, next:5},
+       {text:"Mi lado místico", traits:{mistico:3}, next:5},
+       {text:"Las frases que inspiran", traits:{positivo:4}, next:5},
+       {text:"Mi profesión, con orgullo", traits:{positivo:1}, next:0}
+     ]},
+    {id:4, type:0, weight:5, text:"¿A qué te dedicas?",
+     options:[
+       {text:"Salud (enfermería, medicina, veterinaria…)", traits:{oficio_salud:5}, next:0},
+       {text:"Educación", traits:{oficio_edu:5}, next:0},
+       {text:"Belleza (estilismo, uñas…)", traits:{oficio_belleza:5}, next:0},
+       {text:"Ciencia y números", traits:{oficio_ciencia:5}, next:0},
+       {text:"Manualidades y crafts", traits:{oficio_craft:5}, next:0},
+       {text:"Emprendedora / negocios", traits:{oficio_boss:5}, next:0}
+     ]},
+    {id:5, type:0, weight:2, text:"¿Qué plan te emociona más?",
+     options:[
+       {text:"Un viaje al extranjero", traits:{viajero:4}, next:0},
+       {text:"Ir al partido o a entrenar", traits:{deporte:4}, next:0},
+       {text:"Café, pan y chisme", traits:{humor:3, tierno:1}, next:0},
+       {text:"Tarde de spa y autocuidado", traits:{coquette:2, positivo:2}, next:0}
+     ]},
+    {id:6, type:2, weight:3, text:"Sin pensarlo: ¿cuál te llama?",
+     options:[
+       {text:"Michis", img:"https://dcdn-us.mitiendanube.com/stores/006/050/257/products/gatos-trio-c8e5a187a94c5118c317649793383110-1024-1024.jpg", traits:{tierno:5}, next:-1},
+       {text:"Boho floral", img:"https://dcdn-us.mitiendanube.com/stores/006/050/257/products/floral-boho-varios-9a1c78f3e508ee819217709965498060-1024-1024.jpg", traits:{floral:4, coquette:1}, next:-1},
+       {text:"Tarot", img:"https://dcdn-us.mitiendanube.com/stores/006/050/257/products/termo-gato-tarot-5e6144a75d32ea066517823479449304-1024-1024.jpg", traits:{mistico:5}, next:-1},
+       {text:"Noventero", img:"https://dcdn-us.mitiendanube.com/stores/006/050/257/products/termo-90-c2898d72d5ecd0538517708483967979-1024-1024.jpg", traits:{retro:5, vibrante:2}, next:-1}
+     ]}
+  ]
+};
+
+/* =====================================================================
+ *  3. MOTOR — port fiel de Scoring.java (coseno, curva, alternativas)
+ * =================================================================== */
+
+const DISPLAY_CURVE = 0.45;        // Scoring.DISPLAY_CURVE
+const ALTERNATIVES = 2;            // Scoring.ALTERNATIVES
+const ALT_MIN_PERCENT = 50;        // setting alt_min_percent (default)
+
+// Scoring.addAnswer — suma rasgos de la opción ponderados por el peso de la pregunta
+function addAnswer(profile, optionTraits, questionWeight){
+  if(!optionTraits) return;
+  for(const t in optionTraits){
+    profile[t] = (profile[t] || 0) + optionTraits[t] * questionWeight;
+  }
+}
+
+// Scoring.affinity — similitud coseno (dirección del perfil, no tamaño)
+function affinity(profile, productTraits){
+  let dot=0, np=0, nq=0;
+  for(const t in profile){ const a=profile[t]; np+=a*a; if(productTraits[t]!=null) dot+=a*productTraits[t]; }
+  for(const t in productTraits){ const b=productTraits[t]; nq+=b*b; }
+  if(np<=0 || nq<=0) return 0;
+  return dot / (Math.sqrt(np)*Math.sqrt(nq));
+}
+
+// Scoring.displayPercent — lo que ve el cliente (no cambia el orden)
+function displayPercent(aff){
+  if(aff<=0) return 0;
+  if(aff>=1) return 100;
+  return Math.round(100*Math.pow(aff, DISPLAY_CURVE));
+}
+
+// Scoring.rank — mayor afinidad primero; empata alfabético para ser determinista
+function rank(profile, candidates){
+  const out=[];
+  for(const c of candidates){
+    const aff=affinity(profile,c.traits);
+    if(aff>0) out.push({product:c.product, categoryId:c.categoryId, affinity:aff});
+  }
+  out.sort((a,b)=> b.affinity!==a.affinity ? b.affinity-a.affinity
+    : a.product.name.es.localeCompare(b.product.name.es,"es",{sensitivity:"base"}));
+  return out;
+}
+
+// Scoring.pickAlternatives — prefiere otra categoría, completa con la misma, mínimo 50%
+function pickAlternatives(pool, mainCategoryId, count, minPercent){
+  const out=[];
+  for(const c of pool){ if(out.length>=count) break;
+    if(c.categoryId===mainCategoryId) continue;
+    if(displayPercent(c.affinity)<minPercent) continue; out.push(c); }
+  if(out.length>=count) return out;
+  for(const c of pool){ if(out.length>=count) break;
+    if(c.categoryId!==mainCategoryId) continue;
+    if(displayPercent(c.affinity)<minPercent) continue; out.push(c); }
+  return out;
+}
+
+/* ---- tags de Tiendanube → rasgos ("rasgo:marino=4, rasgo:botanico=2") ---- */
+function traitsFromTags(tags){
+  const out={};
+  if(!tags) return out;
+  for(const raw of tags.split(",")){
+    const m = raw.trim().match(/^rasgo:([\wáéíóúñ-]+)\s*=\s*(-?\d+)$/i);
+    if(m) out[m[1].toLowerCase()] = parseInt(m[2],10);
+  }
+  return out;
+}
+
+function candidates(){
+  return PRODUCTS.map(p=>{
+    // prioridad: tags "rasgo:x=n" del admin de Tiendanube; si no hay, rasgos.json
+    let traits = traitsFromTags(p.tags);
+    if(!Object.keys(traits).length) traits = RASGOS[String(p.id)] || {};
+    return { product:p, categoryId:p.categories[0]||0, traits:traits };
+  }).filter(c=>Object.keys(c.traits).length>0);
+}
+
+const stockOf = p => p.variants.reduce((s,v)=>s+(v.stock==null?1:v.stock),0);
+const priceOf = p => "$"+Number(p.variants[0].price).toFixed(2);
+
+/* =====================================================================
+ *  4. FLUJO DE LA ENCUESTA (una pregunta por pantalla, historial,
+ *     ramificación por next como en SurveyActivity)
+ * =================================================================== */
+
+let profile={}, history=[], currentIdx=0;
+
+const byId = id => QUIZ.questions.findIndex(q=>q.id===id);
+
+function show(id){
+  document.querySelectorAll(".screen").forEach(s=>s.classList.remove("on"));
+  document.getElementById(id).classList.add("on");
+  window.scrollTo(0,0);
+}
+
+function startSurvey(){
+  profile={}; history=[]; currentIdx=0;
+  renderQuestion(); show("scr-survey");
+}
+
+function renderQuestion(){
+  const q=QUIZ.questions[currentIdx];
+  const total=QUIZ.questions.length;
+  document.getElementById("pbar").style.width=Math.round((currentIdx)/total*100)+"%";
+  document.getElementById("qcount").textContent="Pregunta "+(currentIdx+1)+" de "+total;
+  document.getElementById("qtext").textContent=q.text;
+  document.getElementById("btn-back").style.visibility = history.length? "visible":"hidden";
+
+  const box=document.getElementById("opts"); box.innerHTML="";
+  if(q.type===2){
+    const grid=document.createElement("div"); grid.className="imggrid";
+    q.options.forEach((o,i)=>{
+      const b=document.createElement("button"); b.className="imgopt";
+      b.innerHTML=`<img src="${o.img}" alt=""><span>${o.text}</span>`;
+      b.onclick=()=>answer(i); grid.appendChild(b);
+    });
+    box.appendChild(grid);
+  }else{
+    q.options.forEach((o,i)=>{
+      const b=document.createElement("button"); b.className="opt";
+      b.innerHTML=(q.type===1?`<span class="swatch" style="background:${o.color}"></span>`:"")+`<span>${o.text}</span>`;
+      b.onclick=()=>answer(i); box.appendChild(b);
+    });
+  }
+}
+
+function answer(optIdx){
+  const q=QUIZ.questions[currentIdx];
+  const o=q.options[optIdx];
+  history.push({idx:currentIdx, traits:o.traits, weight:q.weight});
+  addAnswer(profile, o.traits, q.weight);
+
+  if(o.next===-1 || (o.next===0 && currentIdx+1>=QUIZ.questions.length)){ finish(); return; }
+  if(o.next>0){
+    const j=byId(o.next);
+    if(j>=0){ currentIdx=j; renderQuestion(); return; }   // brinco
+    // destino inexistente: seguir por posición (misma tolerancia que la app)
+  }
+  currentIdx++;
+  if(currentIdx>=QUIZ.questions.length){ finish(); return; }
+  renderQuestion();
+}
+
+function goBack(){
+  const last=history.pop();
+  if(!last) return;
+  // deshacer la aportación al perfil (la app reconstruye; aquí restamos)
+  for(const t in last.traits) profile[t]-=last.traits[t]*last.weight;
+  currentIdx=last.idx;
+  renderQuestion();
+}
+
+function finish(){
+  show("scr-analyzing");
+  setTimeout(showResult, 1400);
+}
+
+function restart(){ show("scr-cover"); }
+
+/* =====================================================================
+ *  5. RESULTADO — misma regla de negocio de la app:
+ *     · el match principal se puntúa sobre el catálogo COMPLETO y se
+ *       muestra aunque esté agotado (un agotado da conversación)
+ *     · las alternativas solo salen de lo vendible (stock > 0)
+ * =================================================================== */
+
+function showResult(){
+  const all=candidates();
+  const ranked=rank(profile, all);
+  if(!ranked.length){ alert("Sin resultado (perfil vacío)"); restart(); return; }
+
+  const main=ranked[0];
+  const sellable=ranked.filter(c=>stockOf(c.product)>0 && c.product.id!==main.product.id);
+  const alts=pickAlternatives(sellable, main.categoryId, ALTERNATIVES, ALT_MIN_PERCENT);
+
+  const p=main.product, out=stockOf(p)<=0;
+  document.getElementById("r-main").innerHTML=`
+    <div class="card">
+      <img class="hero" src="${p.images[0].src}" alt="">
+      <div class="body">
+        <span class="match-pct">${displayPercent(main.affinity)}% de afinidad contigo</span>
+        <h3>${p.name.es}</h3>
+        <div class="price">${priceOf(p)}</div>
+        <p class="desc">${p.description.es}</p>
+        ${out
+          ? `<div class="soldout">😢 Este favorito se agotó en línea… pero abajo hay opciones que también son muy tú, disponibles ahora.</div>`
+          : `<div class="stock-ok">✓ Disponible en la tienda</div>
+             <a class="btn btn-brand cta" href="${p.canonical_url}">Ver en la tienda</a>`}
+      </div>
+    </div>`;
+
+  let altsHtml="";
+  if(alts.length){
+    altsHtml=`<div class="alts-title">También son muy tú</div>
+              <div class="alts-sub">Disponibles ahora mismo</div>`;
+    for(const a of alts){
+      const ap=a.product;
+      altsHtml+=`
+      <a class="altcard" href="${ap.canonical_url}">
+        <img src="${ap.images[0].src}" alt="">
+        <div>
+          <div class="pct">${displayPercent(a.affinity)}% de afinidad</div>
+          <h4>${ap.name.es}</h4>
+          <div class="p">${priceOf(ap)}</div>
+        </div>
+      </a>`;
+    }
+  }
+  document.getElementById("r-alts").innerHTML=altsHtml;
+  show("scr-result");
+}
+</script>
+</body>
+</html>

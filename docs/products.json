@@ -1,0 +1,4837 @@
+{
+ "generated_at": "2026-08-16T20:49:59.799809+00:00",
+ "categories": {
+  "32601756": "Detalles",
+  "36748738": "Llaveros y pines",
+  "32601765": "Papelería",
+  "34908894": "Paquetes",
+  "36748782": "Stickers",
+  "30539660": "Tazas ",
+  "37547867": "Celebraciones",
+  "37547870": "Oficios",
+  "30527697": "Termos"
+ },
+ "products": [
+  {
+   "id": 263653830,
+   "name": {
+    "es": "Termo con diseño de abejas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta. - Acero inoxida"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-abejas-xqrxv/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ABEJA, APICULTURA, INSECTO, PANAL",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/abejas-todas-9f53d4cc618c94eb3e17660058731731-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 263956092,
+   "name": {
+    "es": "Termo diseño retro 90's"
+   },
+   "description": {
+    "es": "Termo de Acero Inoxidable que no solo mantiene la temperatura por 6 horas , sino que tambi&eacute;n tiene un dise&ntilde;o retro que te har&aacute; sentir la nostalgia de los 80's-90's Ideal para la c"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-retro-90s-4cw6x/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/90-cassette-b4ad6c715a2f4fefe217648917023839-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 263957523,
+   "name": {
+    "es": "Termo con diseño Ahegao, anime"
+   },
+   "description": {
+    "es": "&iexcl;Descubre nuestro Termo de Acero Inoxidables con Dise&ntilde;o Ahegao! Con capacidad de 600 ml , este termo no solo es funcional, sino que tambi&eacute;n presenta un dise&ntilde;o muy original q"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-ahegao-anime-bwhog/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AHEGAO, ANIME, manganime",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ahegao-b03b6cfcc7da55f1c317649959341278-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 263960634,
+   "name": {
+    "es": "Termo con diseño de ajolotes"
+   },
+   "description": {
+    "es": "¡Presentamos el Termo de Acero Inoxidable con Diseño de Ajolote! Con una capacidad de 600 ml , este termo es perfecto para mantener tus bebidas frías o calientes durante horas. Su diseño colorido y vi"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-ajolotes-py7qz/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AJOLOTE, COLORIDO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ajolotes-3-c77812a2cc7f3b409c17649960606301-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 263962994,
+   "name": {
+    "es": "Termo animales salvajes"
+   },
+   "description": {
+    "es": "&nbsp;Este elegante termo, con una capacidad de 600 ml , es ideal para mantener tus bebidas a la temperatura perfecta por horas. Su dise&ntilde;o colorido y vibrante no solo es funcional, sino que tam"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-animales-salvajes-hyk4a/",
+   "categories": [
+    30527697
+   ],
+   "tags": "animales, COLORIDO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/animales-salvajes01-0ceaf182aaa78c6ec017648939952064-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 263964680,
+   "name": {
+    "es": "Termo para emprendedoras, mujeres de negocios."
+   },
+   "description": {
+    "es": "&iquest;Te la pasas trabajando? &iquest;Sacando adelante tu negocio? &iquest;Buscando que m&aacute;s vender en tu emprendimiento? &iexcl;Chica, date un gusto! Con este termo de acero inxodable, con un"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-emprendedoras-mujeres-de-negocios-zd72i/",
+   "categories": [
+    30527697
+   ],
+   "tags": "BOSS, EMPRENDEDORA, LUCHONA, MUJER, NENI",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/boss-23769b38d465ff4a1217649761153134-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 263965382,
+   "name": {
+    "es": "Termo con diseño de caballos"
+   },
+   "description": {
+    "es": "Con una capacidad de 600 ml , este termo es perfecto para mantener tus bebidas fr&iacute;as o calientes por horas. Su dise&ntilde;o colorido y vibrante no solo es pr&aacute;ctico, si te gustan los cab"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-caballos-hiypn/",
+   "categories": [
+    30527697
+   ],
+   "tags": "animales, CABALLOS",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/caballos01-749f82f18a5808e11717649758799621-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 40
+    }
+   ]
+  },
+  {
+   "id": 263966669,
+   "name": {
+    "es": "Termo café, pan y chisme"
+   },
+   "description": {
+    "es": "&iquest;Eres de las que acepta que le gusta el chisme? 😏 &iexcl;Y qu&eacute; mejor que acompa&ntilde;arlo de pan y tu bebida favorita! Este termo de acero inoxidable es para ti. Con una capacidad de 6"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-cafe-pan-y-chisme-wnpuw/",
+   "categories": [
+    30527697
+   ],
+   "tags": "cafe, chisme, coffee, pan",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cafe-y-chisme-e5c9d0c9c34c7ccaec17649769450844-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 263988383,
+   "name": {
+    "es": "Termo con diseño de capibaras"
+   },
+   "description": {
+    "es": "&iquest;Eres amante de los animales adorables? 🦙 &iexcl;Este termo con dise&ntilde;o de capibaras es perfecto para ti! Con una capacidad de 600 ml , garantiza que tus bebidas fr&iacute;as o calientes "
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-capibaras-6ckg0/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ADORABLE, animales, CAPIBARA, CAPYBARA, CARPINCHO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/capibara-varios-5a7e99ed059465217317661237462631-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 264786611,
+   "name": {
+    "es": "Termo sarcasmo, cara amargada"
+   },
+   "description": {
+    "es": "Este termo de 600ml es perfecto para los amantes del humor negro. Hecho de acero inoxidable de alta calidad, no solo mantiene tus bebidas fr&iacute;as o calientes por m&aacute;s tiempo, sino que tambi"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-sarcasmo-cara-amargada-gp8xh/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AMARGA, humor, sarcasmo",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cara-armagada-6d58c4504e3ccac87917649803368394-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 264786827,
+   "name": {
+    "es": "Termo carritos, monster truck"
+   },
+   "description": {
+    "es": "Dise&ntilde;ado para los amantes de la aventura y la velocidad, este termo de acero inoxidable es perfecto para mantener tus bebidas fr&iacute;as o calientes durante todo el d&iacute;a. Con una capaci"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-carritos-monster-truck-o4nef/",
+   "categories": [
+    30527697
+   ],
+   "tags": "carro, monster",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/carritos-0a9a8278a05c5fdaaa17649816119491-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 264786987,
+   "name": {
+    "es": "Termo de diseño con cerditos"
+   },
+   "description": {
+    "es": "&iexcl;Descubre la ternura y la funcionalidad con nuestro Termo con Dise&ntilde;o de Cerditos ! 🐷✨ Este encantador termo de 600ml es ideal para mantener tus bebidas fr&iacute;as o calientes durante to"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-de-diseno-con-cerditos-fq40j/",
+   "categories": [
+    30527697
+   ],
+   "tags": "cerdit, COCHIN, puerquito",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cerdo-9a6f4b492ec0230d1217649801455560-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 6
+    }
+   ]
+  },
+  {
+   "id": 264787158,
+   "name": {
+    "es": "Termo diseño cerveza"
+   },
+   "description": {
+    "es": "&nbsp; Termo con Dise&ntilde;o de Cerveza ! 🍻✨ Este termo de 600ml manteniendo tus bebidas fr&iacute;as o calientes por m&aacute;s de 6 horas. Fabricado en acero inoxidable de alta calidad , no solo g"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-cerveza-54nwf/",
+   "categories": [
+    30527697
+   ],
+   "tags": "cerveza, CORONA, PADRE",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cerveza-e706ef198d45b4f16e17649800711699-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 264787562,
+   "name": {
+    "es": "Termo con diseño de cocodrilos"
+   },
+   "description": {
+    "es": "&iexcl;Agrega un toque salvaje a tus aventuras con nuestro Termo con Dise&ntilde;o de Cocodrilos ! 🐊💚 Este termo de 600ml es ideal para mantener tus bebidas fr&iacute;as o calientes durante m&aacute;s"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-cocodrilos-h6nqe/",
+   "categories": [
+    30527697
+   ],
+   "tags": "animal, cocodrilo",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cocodrilo-4884cc78737d725d8c17649798500318-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 264828466,
+   "name": {
+    "es": "Termo diseño comida kawaii"
+   },
+   "description": {
+    "es": "&iexcl;Disfruta de tus bebidas con un toque adorable con nuestro Termo con Dise&ntilde;o de Comida Kawaii ! 🍱✨ Este encantador termo de 600 ml es perfecto para mantener tus bebidas fr&iacute;as o cali"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-comida-kawaii-wvpg1/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COMIDA, KAWAII",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/comida-k-55530f5d07b3999f4217649842405423-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 264856268,
+   "name": {
+    "es": "Termo para crafter, artesana, manualidades"
+   },
+   "description": {
+    "es": "&iexcl;Presentamos el Termo para Crafters, Artesanos y Manualidades ! 🌟✂️ Dise&ntilde;ado especialmente para aquellos que aman crear, este termo de 600 ml es la combinaci&oacute;n ideal de estilo y pr"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-crafter-artesana-manualidades-nqtux/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ARTESANIA, regalo",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/crafter-2ff6e5456c017d7bb117649825173616-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 264856478,
+   "name": {
+    "es": "Termo \"Creada con un propósito\""
+   },
+   "description": {
+    "es": "&iexcl;Presentamos el Termo \"Creada con un Prop&oacute;sito\" ! 🌈✨ Este termo de 600 ml es la opci&oacute;n perfecta para quienes buscan inspiraci&oacute;n en cada detalle. Con su dise&ntilde;o positiv"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-creada-con-un-proposito-80bij/",
+   "categories": [
+    30527697
+   ],
+   "tags": "MUJER, POSITIVO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/creada-con-un-p-9655a0273c6baa7a0917649824483081-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 264856774,
+   "name": {
+    "es": "Termo true crime, amantes del crimen"
+   },
+   "description": {
+    "es": "&iexcl;Presentamos el Termo con Dise&ntilde;o para Amantes del True Crime ! 🔍💀 Este termo de 600 ml es la elecci&oacute;n perfecta para los fan&aacute;ticos del misterio y lo macabro. Con su dise&ntil"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-true-crime-amantes-del-crimen-dr0zc/",
+   "categories": [
+    30527697
+   ],
+   "tags": "crimen",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/crimen-5ca421af267ed7439d17649797026673-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 264857247,
+   "name": {
+    "es": "Termo con diseño de delfines"
+   },
+   "description": {
+    "es": "&iexcl;Conoce el Termo con Dise&ntilde;o de Delfines ! 🐬💦 Este encantador termo de 600 ml es la opci&oacute;n ideal para quienes desean llevar un pedacito del oc&eacute;ano a todas partes. Con un dise"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-delfines-ifsat/",
+   "categories": [
+    30527697
+   ],
+   "tags": "MAR, OCEANO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/delfin-74984b389c0b1e964417649796146701-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 264857949,
+   "name": {
+    "es": "Termo diseño de football americano"
+   },
+   "description": {
+    "es": "&iexcl;Conoce el Termo con Dise&ntilde;o de F&uacute;tbol Americano ! 🏈💧 Este incre&iacute;ble termo de 600 ml es la elecci&oacute;n perfecta para los apasionados del deporte y para aquellos que quier"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-de-football-americano-9gxu4/",
+   "categories": [
+    30527697
+   ],
+   "tags": "DEPORTE, FOOTBALL, FUTBOL",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/deportes-americano-5727408e26df4e612717649837634087-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 264858487,
+   "name": {
+    "es": "TERMO CON DISEÑO DE BASEBALL"
+   },
+   "description": {
+    "es": "&iexcl;Conoce el Termo con Dise&ntilde;o de Baseball ! ⚾💧 Este espectacular termo de 600 ml es la opci&oacute;n perfecta para los fan&aacute;ticos del b&eacute;isbol y para aquellos que desean llevar "
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-baseball/",
+   "categories": [
+    30527697
+   ],
+   "tags": "BEISBOL, DEPORTE",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/baseball-d7b17fe842738281af17649834775365-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 264860076,
+   "name": {
+    "es": "Termo inspirado en WD-40"
+   },
+   "description": {
+    "es": "&iexcl;Conoce el Termo con Dise&ntilde;o de WD-40 ! 🔧💧 Este excepcional termo de 600 ml es la opci&oacute;n ideal para los amantes de la mec&aacute;nica y aquellos que desean llevar su pasi&oacute;n p"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-wd-40-jpukb/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AFLOJA",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/dw-ab6966c47ae382cb5e17650393127434-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 264860833,
+   "name": {
+    "es": "Termo para estilistas, peluqueros."
+   },
+   "description": {
+    "es": "&iexcl;Presentamos el Termo con Dise&ntilde;o para Estilistas, Esteticistas y Peluqueros ! 💇&zwj;♀️💧 Este incre&iacute;ble termo de 600 ml es la herramienta perfecta para aquellos que aman el arte de "
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-estilistas-peluqueros-wgvbu/",
+   "categories": [
+    30527697
+   ],
+   "tags": "BELLEZA, CABELLO, uñas",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/estilista-2df9668c20e190b31017649832508993-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 264861742,
+   "name": {
+    "es": "Termo diseño gamers"
+   },
+   "description": {
+    "es": "&iexcl;Presentamos el Termo con Dise&ntilde;o para Gamers ! 🎮💧 Este exclusivo termo de 600 ml es la opci&oacute;n perfecta para los apasionados de los videojuegos que desean llevar su estilo a cada so"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-gamers-br8q8/",
+   "categories": [
+    30527697
+   ],
+   "tags": "juego, video",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/gamer-control-fa8780115cff8775e217649829929142-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 264862143,
+   "name": {
+    "es": "Termo lata vintage gasolina"
+   },
+   "description": {
+    "es": "&iexcl;Presentamos el Termo con Dise&ntilde;o de lata de Gasolina ! ⛽️💧 Este espectacular termo de 600 ml es la elecci&oacute;n ideal para los amantes del estilo vintage y la cultura automovil&iacute;"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-lata-vintage-gasolina-47ysb/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/gasolina-b71ddda311526c154517649813858625-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 264862823,
+   "name": {
+    "es": "Termo gatos collage de colores"
+   },
+   "description": {
+    "es": "&iexcl;Presentamos el Termo con Collage de Gatos ! 🐱💧 Este encantador termo de 600 ml es la opci&oacute;n ideal para los amantes de los felinos que desean llevar su pasi&oacute;n a cada sorbo. Con un "
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-gatos-collage-de-colores-8cd00/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COLORES, GATITOS, gato",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/gatos-collage-47318dbdca13a1afa217649828318745-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 264900771,
+   "name": {
+    "es": "Termo con diseño de gatos"
+   },
+   "description": {
+    "es": "Descubre nuestra encantadora colecci&oacute;n de termos de acero inoxidable, con dise&ntilde;os de adorables gatos, perfectos para los amantes de los felinos. Cada vaso est&aacute; dise&ntilde;ado con"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-gatos-a4oi5/",
+   "categories": [
+    30527697
+   ],
+   "tags": "gato, michi",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/gatos-trio-c8e5a187a94c5118c317649793383110-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 35
+    }
+   ]
+  },
+  {
+   "id": 264901265,
+   "name": {
+    "es": "Termo con diseño de girasoles"
+   },
+   "description": {
+    "es": "Lleva tu bebida favorita a todas partes con este termo de acero inoxidable de 600 ml, resistente, duradero y con un dise&ntilde;o en colores vibrantes que alegran tu d&iacute;a. Su doble pared mantien"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-girasoles-od6f1/",
+   "categories": [
+    30527697
+   ],
+   "tags": "FLOR, GIRASOL",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/girasoles-0d84becf9e2d6bdd6f17649792234111-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 264901348,
+   "name": {
+    "es": "Termo diseño gótico rosa"
+   },
+   "description": {
+    "es": "Lleva tu bebida favorita a todas partes con este termo de acero inoxidable de 600 ml, resistente, duradero y con un dise&ntilde;o g&oacute;tico pero muy femenino. Su doble pared mantiene tus bebidas f"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-gotico-rosa-lkttn/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AESTHETIC, CALAVERA, COQUETTE, ESQUELETO, gotic, rosa",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/goticos-376c75e9bf1573dc0c17649738976159-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 266110781,
+   "name": {
+    "es": "Termo con diseño de huellas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un tierno d"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-huellas-glfl6/",
+   "categories": [
+    30527697
+   ],
+   "tags": "animal, gato, huella, PERRO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/huellas-2454ce953d3aaefc0f17649789482291-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 266111812,
+   "name": {
+    "es": "Termo con diseño de libros"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un bonito d"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-libros-ui4o3/",
+   "categories": [
+    30527697
+   ],
+   "tags": "lector, LECTURA, libro",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/libros-f0aa4a425d33be0c7a17650387982892-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 35
+    }
+   ]
+  },
+  {
+   "id": 266111925,
+   "name": {
+    "es": "Termo con diseño de lobos"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-lobos-wv8wa/",
+   "categories": [
+    30527697
+   ],
+   "tags": "lobo, luna",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/lobo-949e640112358899bc17649946398984-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 266112016,
+   "name": {
+    "es": "Termo para maestras, profesores"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un original"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-maestras-profesores-urh9k/",
+   "categories": [
+    30527697
+   ],
+   "tags": "educacion, educador, maestra, maestro, teacher",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/maestra-a19ac977ead13cfe4617649735844141-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 60
+    }
+   ]
+  },
+  {
+   "id": 266112076,
+   "name": {
+    "es": "Termo con diseño de mapas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un interesa"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-mapas-btign/",
+   "categories": [
+    30527697
+   ],
+   "tags": "mapa, media, tierra",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mapa-96e7fd2c7361a319b017649732083924-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 266113329,
+   "name": {
+    "es": "Termo con diseño de mapaches"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un tierno d"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-mapaches-ipg4w/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AMIGA, AMIGO, BESTIES",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mapache-73bc2b13966e0c6e5317649731020667-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 272839861,
+   "name": {
+    "es": "Termo con diseño feminista"
+   },
+   "description": {
+    "es": "Presentamos unos m&aacute;s de nuestros padr&iacute;simos termos. Un dise&ntilde;o muy divertido y atrevido, hecho de acero inoxidable, es muy resistente y mantiene la temperatura de tus bebidas de 6 "
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-feminista-2u42q/",
+   "categories": [
+    30527697
+   ],
+   "tags": "FEMENINO, MUJER, SENO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/senos-7a361fab72c36e0c0717649498474372-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 272851756,
+   "name": {
+    "es": "Termo con diseño de fresas"
+   },
+   "description": {
+    "es": "Presentamos unos m&aacute;s de nuestros padr&iacute;simos termos. Un dise&ntilde;o muy colorido, hecho de acero inoxidable, es muy resistente y mantiene la temperatura de tus bebidas de 6 a 8 horas, n"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-fresas-ydfaf/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COQUETTE, fresa, fruta, rosa",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/fresas-81121fa03f435f92f417649862023946-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 35
+    }
+   ]
+  },
+  {
+   "id": 274225059,
+   "name": {
+    "es": "Termo amor esqueleto"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-amor-esqueleto-i68zn/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AMOR, ESQUELETO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/amor-esqueleto-rojo-9f35028d03be7a929917648936230910-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274225595,
+   "name": {
+    "es": "Termo con diseño de arcoiris"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-arcoiris-dofdj/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COLORES, COLORIDO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/arcoiris-todos-228107ecc25297490717709268148889-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 274225646,
+   "name": {
+    "es": "Termo Atrapasueños"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-atrapasuenos-ien99/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ATRAPA, SUENOS",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/atrapasuenos-b82dce789b9f432c2217649956691127-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274225705,
+   "name": {
+    "es": "Termo hacer conciencia sobre autismo"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-hacer-conciencia-sobre-autismo-qhwa4/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COLORIDO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/autismo-a0f5691e165121a27f17649952336165-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274225886,
+   "name": {
+    "es": "Termo imágenes amor propio, autoestima"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-imagenes-amor-propio-autoestima-7erwz/",
+   "categories": [
+    30527697
+   ],
+   "tags": "dibujos, lindo",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/autoestima-bd46f3b486ad04459217650380118302-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274225964,
+   "name": {
+    "es": "Termo birthday queen"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-birthday-queen-4ce8e/",
+   "categories": [
+    30527697
+   ],
+   "tags": "cumpleanos",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/birthday-queen-e346539c322dc2d08517649861293316-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274226048,
+   "name": {
+    "es": "Termo cumpleaños dinosaurio"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-cumpleanos-dinosaurio-f7h5x/",
+   "categories": [
+    30527697
+   ],
+   "tags": "cumpleanos, DINOSAURIO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/birthday-dino-74ab80c42858fbec7317650403216346-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274226157,
+   "name": {
+    "es": "Termo con diseño de brujas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-brujas-q28na/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/bruja-morada-1f65a71490070a5a0a17650395795922-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 274226604,
+   "name": {
+    "es": "Termo con diseño de búhos"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-buhos-kq6yh/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/buho-8afdf6d04f7320d6de17650407937824-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274226681,
+   "name": {
+    "es": "Termo con caballos de colores"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-caballos-de-colores-c5cil/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/caballos02-5df8989cf7429243fe17649760351360-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274226751,
+   "name": {
+    "es": "Termo con camino de colores"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-camino-de-colores-dr4ua/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COLORES, COLORIDO, FANTASIA",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/camino-colores-da0c1b1bfc1634527517649930913563-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274226821,
+   "name": {
+    "es": "Termo caras felices"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-caras-felices-jeupf/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COLORES, COLORIDO, CUADROS",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/caras-felices-fd883a51baf9e04b6c17649805579213-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274226871,
+   "name": {
+    "es": "Termo collage caricaturas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-collage-caricaturas-6it6m/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/caricaturas-10e7476fb34a8dd49a17649823256130-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274227102,
+   "name": {
+    "es": "Termo con diseño de cerezas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-cerezas-dswmh/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COQUETTE",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cerezas-703f97269a8c7b417a17649934149264-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 274227138,
+   "name": {
+    "es": "Termo con diseño de colibríes"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-colibries-zwhrq/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/colibri-a782aa4995f628edb817649936584588-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274227998,
+   "name": {
+    "es": "Termo diseños de conejo"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-disenos-de-conejo-td8vp/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/conejo-3189818183a02a438517649940588773-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 274228849,
+   "name": {
+    "es": "TERMO CON DISEÑO DE CROCHET, TEJIDO"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-crochet-tejido/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ESTAMBRE, TEJEDORA, TEJER",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/crochet-16f2fe6e86001b6e4b17489288767471-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 274229400,
+   "name": {
+    "es": "Termo con moños, cute, colores"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-monos-cute-colores-torec/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COQUETTE, CUTE, MONOS, rosa",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cute-384d734223a801edaf17649886883087-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274607832,
+   "name": {
+    "es": "Termo con diseño de Guacamayas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-guacamayas-znriv/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AVES",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/guacamaya-azul-bc312525e68806060a17649944382402-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274613589,
+   "name": {
+    "es": "Termo con diseño de ballena"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-ballena-02pmo/",
+   "categories": [
+    30527697
+   ],
+   "tags": "MAR",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ballena-a85a6fff7d50f4517d17650409627767-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274624933,
+   "name": {
+    "es": "Termo con dragones"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-dragones-0xujc/",
+   "categories": [
+    30527697
+   ],
+   "tags": "FANTASIA",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/dragon-423f47946e2a024a2017650394868910-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274626243,
+   "name": {
+    "es": "Termo mujer elegante"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-mujer-elegante-ywdkd/",
+   "categories": [
+    30527697
+   ],
+   "tags": "PARIS",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/elegante-bb940a89008432e00117649854687748-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274627397,
+   "name": {
+    "es": "Termo con diseño de flamingos"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-flamingos-isdig/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/flamingo-1858d726df1e094d0e17650404580766-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 274627707,
+   "name": {
+    "es": "Termo diseño flores de colores"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-flores-de-colores-9id9b/",
+   "categories": [
+    30527697
+   ],
+   "tags": "COLORES, CUTE, lindo",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/flores-colores-aed6716cc3e6b1726d17649885093001-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 274628035,
+   "name": {
+    "es": "Termo diseño de focas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-de-focas-fo3gz/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/focas-f49b3e85773ca5abc617649857007704-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 274628200,
+   "name": {
+    "es": "Termo con diseño de sandía"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-sandia-ewqu6/",
+   "categories": [
+    30527697
+   ],
+   "tags": "fruta",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/fruta-sandia-ed6e5eeb628f7f189b17650402773215-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 274628455,
+   "name": {
+    "es": "Termo con balones de fútbol"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-balones-de-futbol-px4nu/",
+   "categories": [
+    30527697
+   ],
+   "tags": "BALON, DEPORTE, soccer",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/futbol-217d94233cab00591a17649948261697-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 277892423,
+   "name": {
+    "es": "Termo con diseño de Yoga"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-yoga-twvxh/",
+   "categories": [
+    30527697
+   ],
+   "tags": "SALUD, YOGINI, YOGUI",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/yoga01-957ec72a2c5fe1fcc817648945321261-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 281709542,
+   "name": {
+    "es": "Termo ángel rosa"
+   },
+   "description": {
+    "es": "&iexcl;Descubre el TERMO CON DISE&Ntilde;O DE &Aacute;NGEL , la combinaci&oacute;n perfecta entre funcionalidad y ternura que estabas buscando! Fabricado en resistente acero inoxidable , este termo ma"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-angel-rosa-j6p4d/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ANGEL, regalo, TIERNO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/angel-rosa-c460273ca0cbba14fa17648938179571-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 282641797,
+   "name": {
+    "es": "Termo sol y luna"
+   },
+   "description": {
+    "es": "&iexcl;Descubre el TERMO CON SOL Y LUNA , el compa&ntilde;ero ideal para mantener tus bebidas a la temperatura perfecta todo el d&iacute;a! Fabricado en acero inoxidable de alta calidad , este termo r"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-sol-y-luna-w2wvd/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ECLIPSE, SURREAL",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/baile-sol-y-luna-ca72d41531fdbba14317649864803916-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 282649431,
+   "name": {
+    "es": "Termo con diseño abstracto colores"
+   },
+   "description": {
+    "es": "&iexcl;Descubre el TERMO ACERO INOXIDABLE con DISE&Ntilde;O ABSTRACTO en colores suaves ! Con una capacidad de 600 ml , mantiene tus bebidas calientes o fr&iacute;as por horas. Fabricado en acero inox"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-abstracto-colores-rnvxc/",
+   "categories": [
+    30527697
+   ],
+   "tags": "ARTESANIA, PASTEL, rosa",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/abstracto-4bcb4ae2d0ef7020ed17648924528900-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 282652641,
+   "name": {
+    "es": "Termo de acero inoxidable con diseño de escuela, estudiantes."
+   },
+   "description": {
+    "es": "¡Conoce el TERMO PARA ESTUDIANTES, DISEÑO ESCUELA ! Hecho en acero inoxidable, este termo de 600 ml es tan resistente que aguanta hasta tus tareas más difíciles. Mantén tu café caliente o tu jugo frío"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-estudiante-escuela-ojqcv/",
+   "categories": [
+    30527697
+   ],
+   "tags": "clases, educacion, escuela, estudiante",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/estudiante-5edaf0cd1d95334ef817650414066401-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 282673355,
+   "name": {
+    "es": "Termo con bailarinas, ballet"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un encantad"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-bailarinas-ballet-rzhy5/",
+   "categories": [
+    30527697
+   ],
+   "tags": "bailarinas, ballet, PASTEL",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/bailarinas-31f1a613e41439717817649957086466-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 282843867,
+   "name": {
+    "es": "Termo diseño viajes, viajeros, travel"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un bonito d"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-viajes-viajeros-travel-rmeok/",
+   "categories": [
+    30527697
+   ],
+   "tags": "maleta, regalo, viaje, viajero",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/viajes-f37f1e5207b9accb6717649431306470-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 282844022,
+   "name": {
+    "es": "Termo diseño vampiresas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un dise&nti"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-vampiresas-mf9br/",
+   "categories": [
+    30527697
+   ],
+   "tags": "gotico, SURREAL, vampiro",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/vampiro-todas-7c1a5b30060acf22b317699183796582-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 282844196,
+   "name": {
+    "es": "Termo con diseño de vacas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un bonito d"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-vacas-7tmre/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/vacas-todas-10a8e819bd79dc7fa517699198545328-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 25
+    }
+   ]
+  },
+  {
+   "id": 282844393,
+   "name": {
+    "es": "Termo con unicornios"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un bonito d"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-unicornios-yxarh/",
+   "categories": [
+    30527697
+   ],
+   "tags": "PASTEL, regalos, unicornios",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/unicornio-alas-9c24c19b759e782f3f17649446185279-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 282844444,
+   "name": {
+    "es": "Termo con diseño de tiburones"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un colorido"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-tiburones-rk5ok/",
+   "categories": [
+    30527697
+   ],
+   "tags": "MAR",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/tiburones-66ee21817fe4c5e55b17649451246834-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 284124923,
+   "name": {
+    "es": "Termo diseños con muñeca góticas"
+   },
+   "description": {
+    "es": "Descubre el TERMO CON MU&Ntilde;ECA G&Oacute;TICA , un accesorio &uacute;nico dise&ntilde;ado para quienes aprecian la elegancia con un toque de misterio. Este termo, ideal para gente con gustos pecul"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-disenos-con-muneca-goticas-vpyan/",
+   "categories": [
+    30527697
+   ],
+   "tags": "MIEDO, MISTERIO, OSCURO, TERROR",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/muneca03-64c254e7c2e496231517649690678168-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 284849245,
+   "name": {
+    "es": "Termo chicas góticas gimnasio"
+   },
+   "description": {
+    "es": "🖤💪 &iexcl;Para las chicas g&oacute;ticas que no renuncian a su estilo ni en el gimnasio! Presentamos nuestro TERMO PARA G&Oacute;TICAS QUE VAN AL GIMNASIO , dise&ntilde;ado especialmente para quienes "
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-chicas-goticas-gimnasio-hauqc/",
+   "categories": [
+    30527697
+   ],
+   "tags": "gimnasio, oscura",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/gotica-gimnasio-49a0c8448ac2b83ae617649852389981-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 286727676,
+   "name": {
+    "es": "Libreta \"ACRÓBATA\""
+   },
+   "description": {
+    "es": "📒 Dise&ntilde;o &uacute;nico, exclusivo, colores vibrantes solo para gustos &uacute;nicos ✨ 100 hojas papel de gran calidad, 90gr todas decoradas El&aacute;stico para mantenerla siempre cerrada y que "
+   },
+   "canonical_url": "https://briela.com.mx/productos/libreta-cuarto-de-carta-acrobata/",
+   "categories": [
+    32601765
+   ],
+   "tags": "cuaderno",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/acrobata-30507d1a7cfad0a88317548817978987-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "99.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 286744879,
+   "name": {
+    "es": "Libreta \"Baño Azul\""
+   },
+   "description": {
+    "es": "📒 Dise&ntilde;o &uacute;nico, exclusivo, colores vibrantes solo para gustos &uacute;nicos ✨ 100 hojas papel de gran calidad, 90gr todas decoradas El&aacute;stico para mantenerla siempre cerrada y que "
+   },
+   "canonical_url": "https://briela.com.mx/productos/libreta-cuarto-de-carta-bano-azul/",
+   "categories": [
+    32601765
+   ],
+   "tags": "bonita",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/bano-azul-700d690ca52c02933517548812280971-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "99.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 287704046,
+   "name": {
+    "es": "TERMO OUIJA"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-ouija/",
+   "categories": [
+    30527697
+   ],
+   "tags": "BRUJA, BRUJERIA, dark",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ouija-7f52acaa46ee8c5c2517649633127784-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 288756057,
+   "name": {
+    "es": "Termo con diseño de ranas"
+   },
+   "description": {
+    "es": "Descubre la elegancia y funcionalidad del Termo con dise&ntilde;o de ranas , elaborado en acero inoxidable de alta calidad. Con una capacidad de 600 ml, este termo es ideal para mantener tus bebidas f"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-ranas-zb816/",
+   "categories": [
+    30527697
+   ],
+   "tags": "rana, verde",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ranas-376bbdf3d0d6fa2f4617649500659935-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 308500057,
+   "name": {
+    "es": "Termo para enfermeras"
+   },
+   "description": {
+    "es": "- Termo de acero inoxidable, puede mantener la temperatura hasta por 8 horas. - Capacidad 600ml - Se env&iacute;a una sola pieza, la imagen de referencia es para poder apreciar todo el dise&ntilde;o. "
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-enfermeras-nibcd/",
+   "categories": [
+    30527697
+   ],
+   "tags": "acero, doctor, enfermera, medicina, salud, termometro",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/enfermera-9c110f4edad5434b0617650490798400-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 90
+    }
+   ]
+  },
+  {
+   "id": 310383939,
+   "name": {
+    "es": "Termo diseño Yin yang"
+   },
+   "description": {
+    "es": "Descubre la elegancia y funcionalidad del Termo con dise&ntilde;o de yin yang , elaborado en acero inoxidable de alta calidad. Con una capacidad de 600 ml, este termo es ideal para mantener tus bebida"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-yin-yang-vtmtc/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/yin-yang-d5717b15971ed5ab7217648947475124-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310384335,
+   "name": {
+    "es": "Termo diseño de plantas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-de-plantas-h5zii/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/plantas02-d4ed85a5d93fd7bd9717649712430339-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 310384441,
+   "name": {
+    "es": "Termo mujer con plantas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-mujer-con-plantas-d0rv2/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mujer-plantas-a537207669313ef21217649711842873-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 310384998,
+   "name": {
+    "es": "Termo diseño muñecas vintage It's my life"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-munecas-vintage-its-my-life-dszlk/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/muneca-mylife-rosa-a6e2fc844dd691c0a617649694038765-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 310385172,
+   "name": {
+    "es": "Termo diseño murciélagos"
+   },
+   "description": {
+    "es": "Termo de acero inoxidable, mantiene la temperatura de tus bebidas por m&aacute;s de 6 horas. &iexcl;Con incre&iacute;bles dise&ntilde;os relacionado a la mejor &eacute;poca del a&ntilde;o! Colores vib"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-murcielagos-qkkqw/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/murcielagos-22516e99560dabef2e17649689088689-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310385322,
+   "name": {
+    "es": "Termo diseño instrumentos musicales"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-instrumentos-musicales-2yvns/",
+   "categories": [
+    30527697
+   ],
+   "tags": "musica",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/musica-violin-e7b22363e6df264a7617649641328628-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 50
+    }
+   ]
+  },
+  {
+   "id": 310385564,
+   "name": {
+    "es": "Termo diseño norteña, vaquera"
+   },
+   "description": {
+    "es": "Termo de acero inoxidable, mantiene la temperatura de tus bebidas por m&aacute;s de 6 horas. &iexcl;Con incre&iacute;bles dise&ntilde;os relacionado a la mejor &eacute;poca del a&ntilde;o! Colores vib"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-nortena-vaquera-h8slx/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/norte-e06a3c5de3edaf887017649430335228-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310385724,
+   "name": {
+    "es": "Termo notas musicales"
+   },
+   "description": {
+    "es": "Termo de acero inoxidable, mantiene la temperatura de tus bebidas por m&aacute;s de 6 horas. &iexcl;Con incre&iacute;bles dise&ntilde;os relacionado a la mejor &eacute;poca del a&ntilde;o! Colores vib"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-notas-musicales-9x0jx/",
+   "categories": [
+    30527697
+   ],
+   "tags": "musica",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/notas-musicales-amarillo-5dd066a1d735dc2c4817649848857735-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 35
+    }
+   ]
+  },
+  {
+   "id": 310385814,
+   "name": {
+    "es": "Termo nubes colores"
+   },
+   "description": {
+    "es": "Termo de acero inoxidable, mantiene la temperatura de tus bebidas por m&aacute;s de 6 horas. &iexcl;Con incre&iacute;bles dise&ntilde;os relacionado a la mejor &eacute;poca del a&ntilde;o! Colores vib"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-nubes-colores-jmr1h/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/nubes-colores-77cd55285e97bfb90a17649635852529-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310385889,
+   "name": {
+    "es": "Termo ojos anime"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-ojos-anime-23286/",
+   "categories": [
+    30527697
+   ],
+   "tags": "manganime",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ojos-anime-a25dcffcf81c9c05e217649849235495-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310385992,
+   "name": {
+    "es": "Termo orcas ballenas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-orcas-ballenas-xogeu/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/orca-b70dd2c3c356f15c3817649634552687-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310386965,
+   "name": {
+    "es": "Termo diseño Alemania"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-alemania-c8d4v/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-alemania-76611ed8e540f8501217649632317494-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310387059,
+   "name": {
+    "es": "Termo diseño España"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-espana-ujp5d/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-espana-23abd5d9f1078327a917649631595613-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310387337,
+   "name": {
+    "es": "Termo diseño Francia"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-francia-xrv47/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-francia-cfb73604453e54d6d117649631189869-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310390262,
+   "name": {
+    "es": "Termo diseño XOXO"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-xoxo-kxeyt/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/xoxo-619484c2799e466bf117648948663215-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310390562,
+   "name": {
+    "es": "Termo diseño witchy, bruja colores"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-witchy-bruja-colores-sk885/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/witch-todas-1e57e87b5ed706799417699162104908-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 310390693,
+   "name": {
+    "es": "Termo diseño corazones"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-corazones-74exs/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/valentin-316fc2f2e32bd0974217649848246482-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310390877,
+   "name": {
+    "es": "Termo manicurista, uñas, nail boss"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-manicurista-unas-nail-boss-3rzb9/",
+   "categories": [
+    30527697
+   ],
+   "tags": "belleza",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/unas-ea53c6b325f1dfb8ff17649445069584-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 310391165,
+   "name": {
+    "es": "Termo con diseño de tortugas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-tortugas-ogfo5/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/tortuga-unicornio-bbbc3ae1de5cc25f4b17649960273290-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 310391363,
+   "name": {
+    "es": "Termo con diseño de tigre"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-tigre-w76tq/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/tigre-498e59a21875222d2e17649858627729-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 310981374,
+   "name": {
+    "es": "Termo con Geisha y gato"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-geisha-y-gato-4wl4j/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/geisha-123a381aea03dd99f117649741503172-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311271749,
+   "name": {
+    "es": "Termo con diseño de aguacates"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-aguacates-pe1hi/",
+   "categories": [],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/aguacates-9fdb722d41c5ca271217648925785735-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 311273918,
+   "name": {
+    "es": "Termo con diseño de Alpaca kawaii"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-alpaca-kawaii-l7uz6/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/alpaca-2554c503e3a8c215fc17648933309674-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311276935,
+   "name": {
+    "es": "Termo con diseño de araña"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-arana-u30a2/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/arana-8fee9c4e670667c81e17649747478218-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311388092,
+   "name": {
+    "es": "Termo diseño sirenas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-sirenas-taorb/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/sirena01-e7b5d39e27bc4ae40617649494627763-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 311388378,
+   "name": {
+    "es": "Termo \"Sirena de Corazón\""
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-sirena-de-corazon-88m6q/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/sirena-de-corazon02-26708bf6b0ec4bbbe817649495853693-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311388779,
+   "name": {
+    "es": "Termo shopping, compras"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-shopping-compras-4zwcp/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/shopping-da868d742840dc109517649497253176-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311389514,
+   "name": {
+    "es": "Termo repostería, postres, pasteles"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-reposteria-postres-pasteles-rmoxu/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/reposteria03-1c0193e6496ea422e017649499186749-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311390230,
+   "name": {
+    "es": "Termo modelo ramen gatito"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-modelo-ramen-gatito-khhkx/",
+   "categories": [
+    30527697
+   ],
+   "tags": "gato, michi",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ramen-gato-d656e20948d5da319717649501644463-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311391015,
+   "name": {
+    "es": "Termo diseño insecticida"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-insecticida-821cm/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/raid-verde-165b9e27deff9aead217649503439541-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311392764,
+   "name": {
+    "es": "Termo diseño química"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-quimica-kzmk5/",
+   "categories": [
+    30527697
+   ],
+   "tags": "CIENCIA, MATEMATICAS",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/quimica-cece3610097eb3929517649505097787-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311393957,
+   "name": {
+    "es": "Termo retro 70's, groovy, vintage"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-retro-70s-groovy-vintage-w9o3c/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/psicodelico01-b472f80213aa680fec17649510741363-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 25
+    }
+   ]
+  },
+  {
+   "id": 311394445,
+   "name": {
+    "es": "Termo Procrastination Queen"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-procrastination-queen-buw6n/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/procrastinar-9b4e4fadf2858b2ab517649512305593-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311395200,
+   "name": {
+    "es": "Termo polilla mística"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-polilla-mistica-gosxv/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/polilla-269f33e3bf4b8bc5b717649514282887-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311395896,
+   "name": {
+    "es": "Termo diseño playa vintage azul"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-playa-vintage-azul-kw00r/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/playa-azul-2-0c7951980b87ca205b17701693585151-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311396427,
+   "name": {
+    "es": "Termo diseño piñata"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-pinata-e2v28/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pinata-00c90acd24cd3d2f8717649517383743-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311397333,
+   "name": {
+    "es": "Termo diseño princesas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-princesas-jhhwz/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pincesas-084adcbf225ab6604817649638242983-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311398333,
+   "name": {
+    "es": "Termo con diseño de pez"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-pez-ikjlc/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pez-c6ffaae0956298c39517649522642642-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 311398936,
+   "name": {
+    "es": "Termo diseño de perros"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-de-perros-ds1uj/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/perros01-dd7da4839c852af5c717649524418456-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 311399560,
+   "name": {
+    "es": "Termo perros estética"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-perros-estetica-pqp3h/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/perro-estetica-9b490ebbd9fa297d6f17649526319076-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311399860,
+   "name": {
+    "es": "Termo perrito español"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-perrito-espanol-8s6lq/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/perrito-espanol-b1fe492cde1c5f672917649527483614-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311402404,
+   "name": {
+    "es": "Termo pavoreal"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-pavoreal-g3bpd/",
+   "categories": [
+    30527697
+   ],
+   "tags": "acero, bebidas, calor, frio, termo",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pavoreal-a423965c72274e42d317649534277376-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311402816,
+   "name": {
+    "es": "Termo pato meme"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un divertid"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-pato-meme-gn0c7/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pato-meme-9add64f8109b73b82217649535386208-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311403166,
+   "name": {
+    "es": "Termo diseño patchwork"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-patchwork-1q0tq/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/patchwork-2ee56290c308ad568317649536518505-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311403446,
+   "name": {
+    "es": "Termo steampunk pareja"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-steampunk-pareja-el3pm/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AMOR, calavera, esqueleto",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pareja-calaveras-046701e785ae04f3e617649537146339-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311403912,
+   "name": {
+    "es": "Termo pareja beso"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-pareja-beso-3v9bo/",
+   "categories": [
+    30527697
+   ],
+   "tags": "AMOR, beso, pareja",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pareja-beso-825760cd2296b883f617649538220129-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311404462,
+   "name": {
+    "es": "Termo paramédico, condutor de ambulancia"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-paramedico-condutor-de-ambulancia-iuzhg/",
+   "categories": [
+    30527697
+   ],
+   "tags": "medicina",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/paramedico02-42f17600900feea7f717649539405519-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311404802,
+   "name": {
+    "es": "Termo para papá"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-papa-y486o/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/papa-20cac9a1a177b47ea617649540537329-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311405070,
+   "name": {
+    "es": "Termo diseño de pandas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-de-pandas-2q8tw/",
+   "categories": [
+    30527697
+   ],
+   "tags": "oso",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/panda-bambu-5b91dd4252c09a29cd17649541793981-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311411465,
+   "name": {
+    "es": "Termo pan dulce"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-pan-dulce-46iyf/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pan-dulce-531672037e93302ebf17649554585401-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311411848,
+   "name": {
+    "es": "Termo fantasía paisaje de noche"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-fantasia-paisaje-de-noche-lkfkl/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/paisaje-noche-bb9edc7b9c2f4b050817649555429288-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 311418436,
+   "name": {
+    "es": "Termo inspirado en USA"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-usa-l6wh3/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-usa-daa1dbf08f3999b78217649556987242-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 311420449,
+   "name": {
+    "es": "Termo inspirado en Suiza"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-suiza-3sngp/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-suiza-561b37a7aa1e7fdb6f17649574553979-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311440130,
+   "name": {
+    "es": "Termo inspirado en Portugal"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-portugal-zmzgk/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-portugal-c7eabcf30bcc8f0ab717649576080814-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311440576,
+   "name": {
+    "es": "Termo inspirado en Japón"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-japon-te84s/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-japon-2b33686113db2a503417649622072039-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311441728,
+   "name": {
+    "es": "Termo inspirado en Italia"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-italia-s2o0u/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-italia-8bbf76bfd2b7e9a08517649624186693-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311442182,
+   "name": {
+    "es": "Termo inspirado en Irlanda"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-irlanda-1mag8/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-irlanda-0bdd9b3250806027be17649625790885-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311442488,
+   "name": {
+    "es": "Termo inspirado en Inglaterra"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-inspirado-en-inglaterra-e5trn/",
+   "categories": [
+    30527697
+   ],
+   "tags": "pais",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/pais-inglaterra-5bd24f4a676a9570eb17649627090391-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311444827,
+   "name": {
+    "es": "Termo osito limones"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-osito-limones-zvtcf/",
+   "categories": [
+    30527697
+   ],
+   "tags": "oso",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/oso-limones-c06df36f96583bd94b17649633709932-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311447160,
+   "name": {
+    "es": "Termo noche estrellada"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-noche-estrellada-uz0h1/",
+   "categories": [
+    30527697
+   ],
+   "tags": "arte, van gogh",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/noche-estrellada-10164206f437dc88bb17649639367889-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311468105,
+   "name": {
+    "es": "Termo summer vintage"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-summer-vintage-9nq40/",
+   "categories": [
+    30527697
+   ],
+   "tags": "muneca",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/muneca-summer-ecd0256d098cfc044917649692138342-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311469534,
+   "name": {
+    "es": "Termo muñeca vintage con helado"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-muneca-vintage-con-helado-qpbld/",
+   "categories": [
+    30527697
+   ],
+   "tags": "vintage",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/muneca-helado-verde-7b793090811902792117649696819649-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 311469982,
+   "name": {
+    "es": "Termo muñeca vintage con perro"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-muneca-vintage-con-perro-8o55o/",
+   "categories": [
+    30527697
+   ],
+   "tags": "muneca, vintage",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/muneca-con-perro-a75c25242359f98abc17649697973901-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 15
+    }
+   ]
+  },
+  {
+   "id": 311470391,
+   "name": {
+    "es": "Termo muñeca en columpio"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-muneca-en-columpio-ogs1y/",
+   "categories": [
+    30527697
+   ],
+   "tags": "muneca, vintage",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/muneca-columpio-24e25530baaf91e02e17649699947717-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311470692,
+   "name": {
+    "es": "Termo muñeca vintage audífonos"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-muneca-vintage-audifonos-mij56/",
+   "categories": [
+    30527697
+   ],
+   "tags": "muneca, vintage",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/muneca-audifonos-53d7f4f492fde5a37b17649701183080-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311476617,
+   "name": {
+    "es": "Termo mujer con pájaros"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-mujer-con-pajaros-mxcz5/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mujer-con-pajaros-12210ccf5efb21e5b917649719227010-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311477556,
+   "name": {
+    "es": "Termo moños y cuadros"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-monos-y-cuadros-2thwj/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/monos-7f1fe18cd6d08c50a517649721455163-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311478296,
+   "name": {
+    "es": "Termo diseño mexicano"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-mexicano-qiemr/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mexico05-6884f05198edb3f0eb17649722535984-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 311478742,
+   "name": {
+    "es": "Termo mensajes positivos"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-mensajes-positivos-c1old/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mensajes-positivos-9176c50b868697b41117649724125757-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 311479823,
+   "name": {
+    "es": "Termo diseño medieval"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-medieval-5ri6z/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/medieval02-b8994ee9aa6c0b146317649725562269-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311480143,
+   "name": {
+    "es": "Termo math girl, matemáticas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-math-girl-matematicas-b9pcr/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/math-girl-93f48178938f3bfdab17649726437380-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311480897,
+   "name": {
+    "es": "Termo diseño mariposas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-mariposas-oocll/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mariposas-acbb7d92f02446895917649727433363-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 25
+    }
+   ]
+  },
+  {
+   "id": 311481017,
+   "name": {
+    "es": "Termo diseño margaritas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-margaritas-42hd3/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/margaritas-f4274f059c23cab1e417649728689030-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311481900,
+   "name": {
+    "es": "Termo mar, playa"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-mar-playa-oaqyu/",
+   "categories": [
+    30527697
+   ],
+   "tags": "flor",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/mar-b337dca4665c897c0f17649729760807-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311486390,
+   "name": {
+    "es": "Termo diseño macarons color pastel"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-macarons-color-pastel-mg8ii/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/macaron-coquette-ba92c4f6b052c61b2817709400185814-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311487930,
+   "name": {
+    "es": "Termo diseño gallinas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-gallinas-1yw3e/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/gallinas04-135fa61dc9cf11ba2317649742298158-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 311516075,
+   "name": {
+    "es": "Termo cactus adorables"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-cactus-adorables-h8s4e/",
+   "categories": [
+    30527697
+   ],
+   "tags": "CACTUS, PLANTAS",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cactus-rosa-77f1fd860d2d0aea5017649920942961-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311516188,
+   "name": {
+    "es": "Termo con diseño de cactus"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-con-diseno-de-cactus-dozcp/",
+   "categories": [
+    30527697
+   ],
+   "tags": "PLANTAS",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/cactus-50dc3b34be6100650d17649923004609-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311516446,
+   "name": {
+    "es": "Termo morado con calavera"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-morado-con-calavera-kxqf8/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/calavera-fc087f369d928154ba17649927205235-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 311516530,
+   "name": {
+    "es": "Termo calavera de colores"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-calavera-de-colores-ggh78/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/calavera-colores-b533d7ba9f317f599a17649929091477-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311517324,
+   "name": {
+    "es": "Termo diseño compras en París"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un misterio"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-compras-en-paris-9b2vr/",
+   "categories": [
+    30527697
+   ],
+   "tags": "francia",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/compras-paris-c0ead57af7141e78df17649938611516-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 311576085,
+   "name": {
+    "es": "Termo para dentistas, técnico dental, etc."
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un original"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-dentistas-tecnico-dental-etc-mwfw5/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/dentista-2140da35f2466acb0817650465953335-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 35
+    }
+   ]
+  },
+  {
+   "id": 311577156,
+   "name": {
+    "es": "Termo para veterinarios"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un original"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-veterinarios-z9waj/",
+   "categories": [
+    30527697
+   ],
+   "tags": "medicina, PERRO",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/veterinario-c78f9789620e071c4a17650478974201-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 25
+    }
+   ]
+  },
+  {
+   "id": 311577883,
+   "name": {
+    "es": "Termo para doctor, doctora, profesional de la salud, nutrióloga"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? Con nuestro termo tienes tu bebida favorita siempre a la temperatura perfecta, con un original"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-para-doctor-doctora-profesional-de-la-salud-nutriologa-0dr6q/",
+   "categories": [
+    30527697
+   ],
+   "tags": "medicina",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/doctor-2b3bf74d6dfdb9a70b17650487097686-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 321517623,
+   "name": {
+    "es": "Mini álbum fotográfico personalizado"
+   },
+   "description": {
+    "es": "Lleva siempre contigo tus recuerdos de la manera m&aacute;s retro posible&nbsp; 💛💜 &Aacute;lbumes fotogr&aacute;ficos con 20 im&aacute;genes de aproximadamente 3x5cm Despu&eacute;s de hacer tu compra "
+   },
+   "canonical_url": "https://briela.com.mx/productos/mini-album-fotografico-personalizado-m0b1y/",
+   "categories": [],
+   "tags": "14 de febrero, AMOR, regalo, valentin",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/album-bolsa-fb54bcbaa62f14827317696492101895-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "100.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 322242085,
+   "name": {
+    "es": "Termo diseño retro, cajas de video VHS, películas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte? &nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita sie"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-retro-cajas-de-video-vhs-peliculas-1pipw/",
+   "categories": [
+    30527697
+   ],
+   "tags": "retro, video, vintage",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/vhs-bea65a7181e49a669b17699177631315-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 322315171,
+   "name": {
+    "es": "Termo El último unicornio"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-el-ultimo-unicornio-xuxdv/",
+   "categories": [
+    30527697
+   ],
+   "tags": "FANTASIA, retro",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ultimo-unicornio-2d9a96e4afd9a1e83e17701609416501-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 322686327,
+   "name": {
+    "es": "Termo diseño retro, vintage"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-retro-vintage-1raaa/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/retro-d3b783869d851f6a5b17700912567014-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 324201780,
+   "name": {
+    "es": "Libreta \"Chica anime\""
+   },
+   "description": {
+    "es": "Preciosa libreta tama&ntilde;o 1/4 de carta con 100 hojas blancas. Pasta dura, terminado hologr&aacute;fico, hecha totalmente a mano, el&aacute;stico con color a juego. Papel bond de 90gr, es m&aacute"
+   },
+   "canonical_url": "https://briela.com.mx/productos/libreta-chica-anime-1k5ep/",
+   "categories": [
+    32601765
+   ],
+   "tags": "cuaderno, manganime",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/libreta-anime-ff7233b6fafd0c7ea717707362493210-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "90.00",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 324732402,
+   "name": {
+    "es": "Termo I Love 90's"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-i-love-90s-15gej/",
+   "categories": [
+    30527697
+   ],
+   "tags": "90, 90S, nostalgia, noventa, retro",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/termo-90-c2898d72d5ecd0538517708483967979-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 324987642,
+   "name": {
+    "es": "Termo diseño Boho, colores sobrios"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-diseno-boho-sobrio-1atv0/",
+   "categories": [
+    30527697
+   ],
+   "tags": "abstracto, girasol",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/boho-14e13457aa1d927d9017709245841866-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 325196583,
+   "name": {
+    "es": "Termo de acero inoxidable con diseño de gimnasio, fitness, pesas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-de-acero-inoxidable-con-diseno-de-gimnasio-fitness-pesas-1ym49/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/fitness-ca9e3aaa86dd62334f17709959771392-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 325200090,
+   "name": {
+    "es": "Termo de acero inoxidable con diseño Boho Floral"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-de-acero-inoxidable-con-diseno-boho-floral-1o50i/",
+   "categories": [
+    30527697
+   ],
+   "tags": "elegante, flores",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/floral-boho-varios-9a1c78f3e508ee819217709965498060-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 50
+    }
+   ]
+  },
+  {
+   "id": 325799012,
+   "name": {
+    "es": "Termo de acero inoxidable con diseño de hadas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-de-acero-inoxidable-con-diseno-de-hadas-1i6eq/",
+   "categories": [
+    30527697
+   ],
+   "tags": "magia",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/hada-fbafac9fb106ebab0817712974640406-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 20
+    }
+   ]
+  },
+  {
+   "id": 325799184,
+   "name": {
+    "es": "Termo de acero inoxidable con diseño de hielo"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-de-acero-inoxidable-con-diseno-de-hielo-6k8iw/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/hielo-8e5f75d6ff6449228417712977639518-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 325799968,
+   "name": {
+    "es": "Termo de acero inoxidable con diseño de hongos"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-de-acero-inoxidable-con-diseno-de-hongos-18dob/",
+   "categories": [
+    30527697
+   ],
+   "tags": "bosque, champiñon, magia",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/hongos-2404eeaa76ebd870f617712986098437-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 40
+    }
+   ]
+  },
+  {
+   "id": 326592547,
+   "name": {
+    "es": "Termo de acero inoxidable diseño huevo"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-de-acero-inoxidable-diseno-huevos-aiyq9/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/huevos-461bb2adbc09274ed817716346137418-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 1
+    }
+   ]
+  },
+  {
+   "id": 334864749,
+   "name": {
+    "es": "Termo Primavera Aves"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-primavera-aves-3cw3t/",
+   "categories": [
+    30527697
+   ],
+   "tags": "PRIMAVERA",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/termo-aves-b47cbdee344bcdb0a017748142259511-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 99
+    }
+   ]
+  },
+  {
+   "id": 352373144,
+   "name": {
+    "es": "Termo Gato Tarot"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-gato-tarot-16kzl/",
+   "categories": [
+    30527697
+   ],
+   "tags": "TAROT",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/termo-gato-tarot-5e6144a75d32ea066517823479449304-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 352375466,
+   "name": {
+    "es": "Termo Cartas Tarot Esqueleto"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-cartas-tarot-esqueleto-cneso/",
+   "categories": [
+    30527697
+   ],
+   "tags": "TAROT",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/tarot-cartas-d7fceb92c20f9fdd9217823492915016-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 352375830,
+   "name": {
+    "es": "Termo Tarot Cartas"
+   },
+   "description": {
+    "es": "&iquest;Caf&eacute; bien caliente para arrancar el d&iacute;a? &iquest;Agua fr&iacute;a para refrescarte?&nbsp; Tenemos para ti la opci&oacute;n ideal, con nuestro termo tienes tu bebida favorita siem"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-tarot-cartas-16iwj/",
+   "categories": [
+    30527697
+   ],
+   "tags": "TAROT",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/tarot-cartas02-ef4b67ab78044643d617823494061724-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 352377366,
+   "name": {
+    "es": "Libreta \"Virgen Blanca\""
+   },
+   "description": {
+    "es": "📒 Dise&ntilde;o &uacute;nico, exclusivo, colores vibrantes solo para gustos &uacute;nicos ✨ 100 hojas papel de gran calidad, 90gr todas decoradas El&aacute;stico para mantenerla siempre cerrada y que "
+   },
+   "canonical_url": "https://briela.com.mx/productos/libreta-virgen-blanca-94cx8/",
+   "categories": [
+    32601765
+   ],
+   "tags": "cuaderno, religion",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/virgen-fc192c0e5f53cc4caa17823503881527-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "99.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 352615797,
+   "name": {
+    "es": "Libreta inspirada en el Tarot de Marsella"
+   },
+   "description": {
+    "es": "📒 Dise&ntilde;o &uacute;nico, exclusivo, colores vibrantes solo para gustos &uacute;nicos ✨ 100 hojas papel de gran calidad, 90gr todas decoradas El&aacute;stico para mantenerla siempre cerrada y que "
+   },
+   "canonical_url": "https://briela.com.mx/productos/libreta-inspirada-en-el-tarot-de-marsella-1ydqk/",
+   "categories": [
+    32601765
+   ],
+   "tags": "cuaderno, TAROT",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/tarot-marsella-58f4522d8e5eb99f1217824338427587-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "99.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 352618186,
+   "name": {
+    "es": "Libreta inspirada en el Tarot"
+   },
+   "description": {
+    "es": "📒 Dise&ntilde;o &uacute;nico, exclusivo, colores vibrantes solo para gustos &uacute;nicos ✨ 100 hojas papel de gran calidad, 90gr todas decoradas El&aacute;stico para mantenerla siempre cerrada y que "
+   },
+   "canonical_url": "https://briela.com.mx/productos/libreta-inspirada-en-el-tarot-1iqp5/",
+   "categories": [
+    32601765
+   ],
+   "tags": "cuaderno, TAROT",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/tarot-db83cbf535c31175c317824350502062-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "99.00",
+     "stock": 30
+    }
+   ]
+  },
+  {
+   "id": 356001833,
+   "name": {
+    "es": "Taza grande MEJOR AMIGA"
+   },
+   "description": {
+    "es": "Dale un detalle a tu bestie que dure tanto como su amistad&nbsp; ❤️ Taza premium de cer&aacute;mica&nbsp; Capacidad de 440ml Apta para microondas Dise&ntilde;o sublimado &nbsp; &nbsp; &nbsp; &nbsp; &n"
+   },
+   "canonical_url": "https://briela.com.mx/productos/taza-de-ceramica-mejor-amiga-1ie0u/",
+   "categories": [
+    30539660
+   ],
+   "tags": "amiga, friends, regalo",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/chatgpt-image-16-jul-2026-03_11_28-p-m-09ef091ebb8126801517842405064415-1024-1024.png"
+    }
+   ],
+   "variants": [
+    {
+     "price": "199.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 356041096,
+   "name": {
+    "es": "Taza grande ADORABLE ABEJA"
+   },
+   "description": {
+    "es": "Dise&ntilde;o inspirado en este hermoso y trabajador animalito 🐝 Taza premium de cer&aacute;mica&nbsp; Capacidad de 440ml Apta para microondas Dise&ntilde;o sublimado &nbsp;"
+   },
+   "canonical_url": "https://briela.com.mx/productos/taza-de-ceramica-adorable-abeja-xp45c/",
+   "categories": [
+    30539660
+   ],
+   "tags": "abeja, adorable, cerámica, miel, taza",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/abeja-151c52054d56fa249117842591036550-1024-1024.png"
+    }
+   ],
+   "variants": [
+    {
+     "price": "199.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 356042946,
+   "name": {
+    "es": "Taza grande GATITOS SUAVES"
+   },
+   "description": {
+    "es": "Dise&ntilde;o con divertidos y coloridos gatitos. 🐾🧡💛🤎 ✔ Taza de cer&aacute;mica premium &nbsp; ✔ Capacidad de 440ml ✔ Apta para microondas ✔ Dise&ntilde;o sublimado"
+   },
+   "canonical_url": "https://briela.com.mx/productos/taza-gatitos-suaves-105ez/",
+   "categories": [
+    30539660
+   ],
+   "tags": "gatos, mascotas, michi",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/chatgpt-image-16-jul-2026-09_55_22-p-m-059540abf18de4945117842605900508-1024-1024.png"
+    }
+   ],
+   "variants": [
+    {
+     "price": "199.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 356352884,
+   "name": {
+    "es": "Taza grande AMOR GATUNO"
+   },
+   "description": {
+    "es": "Dise&ntilde;o con divertidos y coloridos gatitos. 🐈&zwj; ✔ Taza de cer&aacute;mica premium &nbsp; ✔ Capacidad de 440ml ✔ Apta para microondas ✔ Dise&ntilde;o sublimado &nbsp;"
+   },
+   "canonical_url": "https://briela.com.mx/productos/taza-amor-gatuno-wfcig/",
+   "categories": [
+    30539660
+   ],
+   "tags": "gatos, mascotas, michi",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/taza-gato-corazones-6e9c16f901b3e5a85a17844274024443-1024-1024.png"
+    }
+   ],
+   "variants": [
+    {
+     "price": "199.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 356355358,
+   "name": {
+    "es": "Taza grande MAGIA BALLENAS"
+   },
+   "description": {
+    "es": "Dise&ntilde;o inspirado en los habitantes marinos m&aacute;s majestuosos 🌊 ✔ Taza de cer&aacute;mica premium &nbsp; ✔ Capacidad de 440ml ✔ Apta para microondas ✔ Dise&ntilde;o sublimado &nbsp;"
+   },
+   "canonical_url": "https://briela.com.mx/productos/taza-grande-magia-ballenas-8uxmd/",
+   "categories": [
+    30539660
+   ],
+   "tags": "MAR, playa",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/ballenas-262e9de78e1014708617844292611419-1024-1024.png"
+    }
+   ],
+   "variants": [
+    {
+     "price": "199.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 356364614,
+   "name": {
+    "es": "Taza grande MAESTRA INOLVIDABLE"
+   },
+   "description": {
+    "es": "La profesi&oacute;n m&aacute;s bonita, merece una taza igual de bonita ✨ ✔ Taza de cer&aacute;mica premium &nbsp; ✔ Gran capacidad de 440ml ✔ Apta para microondas ✔ Dise&ntilde;o sublimado &nbsp;"
+   },
+   "canonical_url": "https://briela.com.mx/productos/taza-grande-maestra-inolvidable-1547v/",
+   "categories": [
+    30539660
+   ],
+   "tags": "MAR, playa",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/maestra-c2d07b17f1ecf9d68117844496690297-1024-1024.png"
+    }
+   ],
+   "variants": [
+    {
+     "price": "199.00",
+     "stock": 10
+    }
+   ]
+  },
+  {
+   "id": 360738793,
+   "name": {
+    "es": "Termo personalizado Beatles fotos"
+   },
+   "description": {
+    "es": "- Hecho de acero inoxidable - Dise&ntilde;o aprobado por mail &nbsp; - Aplica promoci&oacute;n y se env&iacute;a termo capacidad de 30 onzas por el mismo precio&nbsp; &nbsp; Los colores pueden tener l"
+   },
+   "canonical_url": "https://briela.com.mx/productos/termo-gato-tarot-copia-1u91h/",
+   "categories": [
+    30527697
+   ],
+   "tags": "",
+   "images": [
+    {
+     "src": "https://dcdn-us.mitiendanube.com/stores/006/050/257/products/beatles-fotos-9ed40a30168eaaa1ed17865839711740-1024-1024.jpg"
+    }
+   ],
+   "variants": [
+    {
+     "price": "299.00",
+     "stock": 0
+    }
+   ]
+  }
+ ]
+}
